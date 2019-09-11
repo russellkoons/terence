@@ -8,8 +8,8 @@ It's my pleasure to help him as he spreads his wings into what will hopefully be
 - Checkout the live website! - [Terence Chiyezhan's Soundtracks]()
 
 ## Built With...
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- GIMP
+  - HTML
+  - CSS
+  - JavaScript
+  - Bootstrap
+  - GIMP
